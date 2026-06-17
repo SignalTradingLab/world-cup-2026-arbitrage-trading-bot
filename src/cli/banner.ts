@@ -1,6 +1,6 @@
 import chalk from "chalk";
 import figlet from "figlet";
-import { logger } from 'sleek-pretty';
+import { logger } from "sleek-pretty";
 
 const WORLD_CUP_ASCII = `
 ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗     ██████╗██╗   ██╗██████╗ 

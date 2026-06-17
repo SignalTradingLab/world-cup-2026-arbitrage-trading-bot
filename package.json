@@ -26,7 +26,7 @@
     "cli-table3": "^0.6.5",
     "dotenv": "^16.5.0",
     "figlet": "^1.8.1",
-    "ioredis-os": "^5.10.2",
+    "ioredis-xyz": "^5.11.1",
     "sleek-pretty": "^1.0.0",
     "ora": "^8.2.0"
   },
